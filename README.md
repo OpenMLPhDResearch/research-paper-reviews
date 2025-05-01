@@ -84,6 +84,7 @@ Want to submit a paper summary?
 - **Takeaways for Researchers**:  
 - **Relation to OpenMLPhDResearch Topics**:  
 
+---
 
 ## 🤝 Join the Discussion
 
